@@ -1,0 +1,22 @@
+# Ignore Node modules
+Frontend/node_modules/
+Frontend/dist/
+Frontend/build/
+
+# Ignore Angular environment files
+Frontend/src/environments/*.ts
+
+# Ignore temporary files
+Frontend/tmp/
+Frontend/.angular/
+
+# Ignore .NET Core build outputs
+Backend/bin/
+Backend/obj/
+Backend/*.user
+Backend/*.suo
+Backend/*.sln.ide
+
+# Ignore Visual Studio files
+Backend/.vs/
+Backend/.vscode/
